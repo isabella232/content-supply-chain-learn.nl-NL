@@ -1,20 +1,24 @@
 ---
-user-guide-title: Zelfstudies voor de Adobe-inhoudsvoorzieningsketen
-breadcrumb-title: Tutorials van de toeleveringsketen
-user-guide-description: Bekijk de zelfstudies van het Experience League over de Adobe Content Supply Chain, een end-to-end oplossing om de toeleveringsketen van uw inhoud te versnellen en te vereenvoudigen met behulp van generatieve AI en intelligente automatisering.
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+user-guide-title: Zelfstudies over de toeleveringsketen van Adoben
+breadcrumb-title: Zelfstudies over de toeleveringsketen van inhoud
+user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
+source-git-commit: fb7ae72b84c093627e79ddd171f703619410b637
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 1%
+source-wordcount: '40'
+ht-degree: 0%
 
 ---
 
 
-# Zelfstudies voor de Adobe-inhoudsvoorzieningsketen {#tutorials}
+# Zelfstudies over de toeleveringsketen van Adoben {#tutorials}
 
-+ [[!DNL Content supply chain] Tutorials](overview.md)
++ [[!DNL Content supply chain] zelfstudies](overview.md)
 + [Workflow en planning](workflow-and-planning.md)
-+ [Creatieve productiviteit](creative-productivity.md)
-+ [Creatieve productiviteit met AEM Assets](creative-productivity-aemassets.md)
-+ [Marketingflexibiliteit](marketing-agility.md)
++ [Inhoud maken en produceren](content-creation-and-production.md)
++ [Beheer van bedrijfsmiddelen](asset-management.md)
 + [Aflevering en activering](delivery-and-activation.md)
++ [Rapportage en inzichten](reporting-and-insights.md)
++ verborgen {#hidden}
+   + [Creatieve productiviteit](creative-productivity.md)
+   + [Creatieve productiviteit met AEM Assets](creative-productivity-aemassets.md)
+   + [Marketingflexibiliteit](marketing-agility.md)
