@@ -1,18 +1,18 @@
 ---
-user-guide-title: Zelfstudies over de toeleveringsketen van Adoben
-breadcrumb-title: Zelfstudies over de toeleveringsketen van inhoud
-user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
-source-git-commit: fb7ae72b84c093627e79ddd171f703619410b637
+user-guide-title: Tutorials voor de toeleveringsketen voor Adobe-inhoud
+breadcrumb-title: Zelfstudies voor de inhoudsvoorzieningsketen
+user-guide-desription: View Experience League tutorials on Adobe Content Supply Chain, the simplified promise of Adobe's solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
+source-git-commit: 77982009a37d9d15cbc5e93c7537bc4883789b28
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Zelfstudies over de toeleveringsketen van Adoben {#tutorials}
+# Tutorials voor de toeleveringsketen voor Adobe-inhoud {#tutorials}
 
-+ [[!DNL Content supply chain] zelfstudies](overview.md)
++ [[!DNL Content Supply Chain] Tutorials](overview.md)
 + [Workflow en planning](workflow-and-planning.md)
 + [Inhoud maken en produceren](content-creation-and-production.md)
 + [Beheer van bedrijfsmiddelen](asset-management.md)
